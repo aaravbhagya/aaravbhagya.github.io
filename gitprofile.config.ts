@@ -76,13 +76,15 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/14cJdf9sQb6Pn13kCgR3VQ6YdknIKDOix/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'cmd',
-    'React.js',
+    'AutoDesk Inventor',
     'Node.js',
     'Git',
+    'Debate (5+ years)',
+    'Tennis (11+ years)'
   ],
   experiences: [
     {
@@ -113,7 +115,7 @@ const CONFIG = {
       institution: 'Foothill High School',
       degree: 'Diploma',
       from: '2023',
-      to: 'In Progress',
+      to: '2027',
     },
     {
       institution: '',
@@ -176,7 +178,7 @@ const CONFIG = {
       class="text-primary" href="https://github.com/aaravbhagya/gitprofile"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️🦅 (credits to https://github.com/arifszn/gitprofile for template)`,
+    >GitProfile</a> and ❤️ (temp cred: https://github.com/arifszn/gitprofile)`,
 
   enablePWA: true,
 };
