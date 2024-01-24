@@ -137,7 +137,7 @@ const CONFIG = {
   blog: {
     source: 'dev', // medium | dev
     username: 'aaravbhagya', // to hide blog section, keep it empty
-    limit: 3, // How many articles to display. Max is 10.
+    limit: 5, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
