@@ -83,7 +83,7 @@ const CONFIG = {
     'AutoDesk Inventor',
     'Node.js',
     'Git',
-    'Debate (5+ years)',
+    'Debate (6+ years)',
     'Tennis (11+ years)'
   ],
   experiences: [
