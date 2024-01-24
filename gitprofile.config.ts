@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: '', // Your GitHub org/user name. (This is the only required config)
+    username: 'aaravbhagya', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -41,12 +41,12 @@ const CONFIG = {
           link: 'https://drive.google.com/file/d/1EYIY1h4tH9sbqwyxElZ9gUxkK4naLJxb/view?usp=drive_link',
         },
         {
-          title: 'Project Name',
+          title: 'Podcast on Smartphones',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'An intuitive dive into the history of the smartphone, as well as brainstormed solutions on how to make it better. Built using time management, brainstorming sessions, organization, and research ethics.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://www.creativefabrica.com/wp-content/uploads/2022/04/20/Illustration-Graphic-of-Microphone-icon-Graphics-29305865-1.jpg',
+          link: 'https://drive.google.com/drive/folders/18wVY_-C08EvvhEPoDI0C5niyLfXytu8k?usp=sharing',
         },
       ],
     },
