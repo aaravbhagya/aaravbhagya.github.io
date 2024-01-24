@@ -90,7 +90,7 @@ const CONFIG = {
     'Model UN (1+ years)',
     'Tennis (11+ years)',
     'Swim Team (2+ years)',
-    'Public Forum Debate (3+ years),
+    'Public Forum Debate (3+ years)',
     'Speech (2+ years)',
     'Spanish',
     'Hindi',
