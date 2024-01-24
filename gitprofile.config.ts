@@ -135,7 +135,7 @@ const CONFIG = {
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
-    id: '',
+    id: '3838081',
     snippetVersion: 6,
   },
   themeConfig: {
@@ -175,10 +175,10 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/aaravbhagya/gitprofile"
+      class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️ (temp cred: https://github.com/arifszn/gitprofile)`,
+    >GitProfile</a> and ❤️`,
 
   enablePWA: true,
 };
