@@ -91,7 +91,7 @@ const CONFIG = {
     'Tennis (11+ years)',
     'Swim Team (2+ years)',
     'Public Forum Debate (3+ years),
-    'Public Speaking (2+ years)',
+    'Speech (2+ years)',
     'Spanish',
     'Hindi',
   ],
