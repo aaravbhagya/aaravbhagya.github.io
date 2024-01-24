@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'aaravbhagya', // Your GitHub org/user name. (This is the only required config)
+    username: '', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/',
   projects: {
     github: {
-      display: true, // Display GitHub projects?
+      display: false, // Display GitHub projects?
       header: 'My Engineering Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'EagleSway',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'A wooden hand-crank "toy" with instructions to set up, pre-laser cut items, and a detailed project report. Utilized teamwork, contribution skills, organization, and proper time budgeting.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://eu-central.storage.cloudconvert.com/tasks/7643cda9-1f4c-49f9-a8bb-d9627c240e60/Screenshot%202024-01-23%20174258.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20240124%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20240124T014408Z&X-Amz-Expires=86400&X-Amz-Signature=452d688438293d41cbf89e58c6666ef941f86734fc49ffbbb7b976e16d08ba9e&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22Screenshot%202024-01-23%20174258.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject',
+          link: 'https://drive.google.com/file/d/1EYIY1h4tH9sbqwyxElZ9gUxkK4naLJxb/view?usp=drive_link',
         },
         {
           title: 'Project Name',
@@ -88,26 +88,32 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'My debate experience has interested me in workplaces involving immense communication and critical thinking processes, and I like to stay around technical areas like corporations because of my previous familiarity with technology.',
+      position: 'Corporate Lawyer',
+      from: 'May 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.indeed.com/career-advice/finding-a-job/what-do-corporate-lawyers-do',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'I have had an interest since a child in the medical industry, specifically neurology. Becoming a surgeon like my relatives is an inspiration and motivation to compete in a saturated education that the health department requires.',
+      position: 'Neurosurgeon',
+      from: 'July 2016',
+      to: 'Present',
+      companyLink: 'https://my.clevelandclinic.org/health/articles/22364-neurosurgeon',
     },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Law School (A.K.A The Bar)',
+      body: '3-4 years of schooling',
+      year: '2042-2052',
+      link: 'https://www.calbar.ca.gov/Admissions/Law-School-Regulation/Law-Schools',
+    },
+    {
+      name: 'Med School',
+      body: '3-7 years of schooling',
+      year: '2045-2055',
+      link: 'https://www.usnews.com/best-graduate-schools/top-medical-schools',
     },
   ],
   educations: [
@@ -116,12 +122,6 @@ const CONFIG = {
       degree: 'Diploma',
       from: '2023',
       to: '2027',
-    },
-    {
-      institution: '',
-      degree: '',
-      from: '',
-      to: '',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
