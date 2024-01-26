@@ -66,7 +66,7 @@ const CONFIG = {
     dribbble: '',
     behance: '',
     medium: '',
-    dev: '',
+    dev: '@aaravbhagya',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
@@ -97,16 +97,23 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'My debate experience has interested me in workplaces involving immense communication and critical thinking processes, and I like to stay around technical areas like corporations because of my previous familiarity with technology.',
+      company: 'Software engineering has been a dream career since childhood, sparked by the blend of creativity and problem-solving it offers to improve life. Growing up surrounded by family members who are software engineers has not only given me a firsthand look into the field but has also instilled in me a deep appreciation for the impact and innovation it brings.',
+      position: 'Software',
+      from: 'Interest Beginning: January 2015',
+      to: 'Present',
+      companyLink: 'https://www.coursera.org/articles/software-engineer',
+    },
+    {
+      company: 'My debate experience has interested me in workplaces involving immense communication and critical thinking processes, and I like to stay around technical areas like corporations because of my previous familiarity with technology and software development.',
       position: 'Corporate Lawyer',
-      from: 'Interest Beginning: May 2023',
+      from: 'Interest Beginning: May 2021',
       to: 'Present',
       companyLink: 'https://www.indeed.com/career-advice/finding-a-job/what-do-corporate-lawyers-do',
     },
     {
-      company: 'I have had an interest since a child in the medical industry, specifically neurology. Becoming a surgeon like my relatives is an inspiration and motivation to compete in a saturated education that the health department requires.',
+      company: 'I have been interested since childhood in the medical industry, specifically neurology. Becoming a surgeon like my relatives is an inspiration and motivation to compete in a saturated education that the health department requires. These surgeons are respectable people, with lots of wisdom and experience.',
       position: 'Neurosurgeon',
-      from: 'Interest Beginning: July 2016',
+      from: 'Interest Beginning: July 2017',
       to: 'Present',
       companyLink: 'https://my.clevelandclinic.org/health/articles/22364-neurosurgeon',
     },
