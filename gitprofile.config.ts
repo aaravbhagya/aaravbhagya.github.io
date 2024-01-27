@@ -37,8 +37,8 @@ const CONFIG = {
           description:
             'A wooden hand-crank "toy" with instructions to set up, pre-laser cut items, and a detailed project report. Utilized teamwork, contribution skills, organization, and proper time budgeting.',
           imageUrl:
-            'https://eu-central.storage.cloudconvert.com/tasks/7643cda9-1f4c-49f9-a8bb-d9627c240e60/Screenshot%202024-01-23%20174258.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20240124%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20240124T014408Z&X-Amz-Expires=86400&X-Amz-Signature=452d688438293d41cbf89e58c6666ef941f86734fc49ffbbb7b976e16d08ba9e&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22Screenshot%202024-01-23%20174258.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject',
-          link: 'https://i.ibb.co/2tfjg9f/Screenshot-2024-01-23-174258.png',
+            'https://i.ibb.co/2tfjg9f/Screenshot-2024-01-23-174258.png',
+          link: 'https://docs.google.com/document/d/1dpc6S5n4N8c2u7tVVHLey5-790Vqvjbcw6wBiLUfR9o/edit?usp=sharing',
         },
         {
           title: 'Podcast on Smartphones',
