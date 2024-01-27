@@ -140,10 +140,10 @@ const CONFIG = {
       to: '2027',
     },
     {
-      institution: 'Foothill High School',
-      degree: 'Diploma',
-      from: 'Expected: 2023',
-      to: '2027',
+      institution: 'Pleasanton Middle School',
+      degree: 'None',
+      from: '2020',
+      to: '2023',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
