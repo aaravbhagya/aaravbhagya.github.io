@@ -89,6 +89,7 @@ const CONFIG = {
     'Tutoring',
     'Model UN (1+ years)',
     'Tennis (11+ years)',
+    'JV Tennis Team (1 year)',
     'Swim Team (2+ years)',
     'Public Forum Debate (3+ years)',
     'Speech (2+ years)',
